@@ -159,7 +159,7 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
 
-### Made with ❤️ by Your Name
+### Made with ❤️ by Gopi Kumar
 
 ⭐ Don't forget to Star this repository!
 
